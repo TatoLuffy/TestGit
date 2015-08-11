@@ -1,4 +1,4 @@
 Paso 1: Pruebas con git
 Paso 2: Sobreescribir cambios de la anterior versión
 Paso 3: Crear rama
-Paso 4: Fork y modificar archivo prueba.
+Paso 4: Fork y modificar archivo prueba TEST CI.
