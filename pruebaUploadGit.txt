@@ -1,1 +1,2 @@
 Paso 1: Pruebas con git
+Paso 2: Sobreescribir cambios de la anterior versión
